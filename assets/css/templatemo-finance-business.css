@@ -1239,13 +1239,21 @@ footer .contact-form button.filled-button:hover {
 	.sub-header {
 		display: none;
 	}
+	.navbar .navbar-brand h2{
+		display: none;
+	}
+	.Modern-Slider .text-content{
+		margin-top: 140px;
+		margin-left: 50px;
+		width: 75%;
+	}
 	.Modern-Slider .item h6 {
 	  margin-bottom: 15px;
-	  font-size: 18px;
+	  font-size: 12px;
 	}
 	.Modern-Slider .item h4 {
 	  margin-bottom: 25px;
-	  font-size: 28px;
+	  font-size: 20px;
 	  line-height: 36px;
 	  letter-spacing: 1px;
 	}
@@ -1253,6 +1261,7 @@ footer .contact-form button.filled-button:hover {
 		max-width: 570px;
 		line-height: 25px;
 		margin-bottom: 30px;
+		font-size: 12px;
 	}
 	.Modern-Slider .NextArrow{
 	  right:5px;
@@ -1341,7 +1350,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-link.current,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #a4c639!important;
+		color: #646443!important;
 		border-bottom: none!important;
 	}
 }
