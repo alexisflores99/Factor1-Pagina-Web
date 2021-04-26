@@ -1064,7 +1064,8 @@ footer .contact-form button.filled-button:hover {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding: 230px 0px 150px 0px;
+	padding: 170px 0px 20px 0px;
+	
 	color: #fff;
 }
 
@@ -1248,6 +1249,9 @@ footer .contact-form button.filled-button:hover {
 		margin-left: 60px!important;
 		width: 50%;
 	}
+	.mapa{
+		width: 400px!important;
+	}
 }
 
 
@@ -1326,6 +1330,9 @@ footer .contact-form button.filled-button:hover {
 	}
 	.contact-item {
 		margin-bottom: 30px;
+	}
+	.mapa{
+		width: 400px!important;
 	}
 }
 
