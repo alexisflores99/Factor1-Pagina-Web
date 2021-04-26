@@ -1236,6 +1236,17 @@ footer .contact-form button.filled-button:hover {
 
 /* Responsive Style */
 
+@media (max-width: 400px) {
+	.navbar .navbar-brand h2{
+		display: none;
+	}
+	.Modern-Slider .text-content{
+		margin-top: 140px;
+		margin-left: 60px!important;
+		width: 50%;
+	}
+}
+
 
 @media (max-width: 768px) {
 	.sub-header {
@@ -1247,7 +1258,7 @@ footer .contact-form button.filled-button:hover {
 	.Modern-Slider .text-content{
 		margin-top: 140px;
 		margin-left: 50px;
-		width: 75%;
+		width: 50%;
 	}
 	.Modern-Slider .item h6 {
 	  margin-bottom: 15px;
