@@ -1235,6 +1235,8 @@ footer .contact-form button.filled-button:hover {
 
 
 /* Responsive Style */
+
+
 @media (max-width: 768px) {
 	.sub-header {
 		display: none;
