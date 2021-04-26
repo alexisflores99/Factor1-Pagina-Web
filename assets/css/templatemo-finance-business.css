@@ -1237,6 +1237,9 @@ footer .contact-form button.filled-button:hover {
 /* Responsive Style */
 
 @media (max-width: 400px) {
+	.navbar-brand img {
+		width: 60px!important;
+	}
 	.navbar .navbar-brand h2{
 		display: none;
 	}
